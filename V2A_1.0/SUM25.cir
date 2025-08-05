@@ -1,0 +1,9 @@
+.title KiCad schematic
+.include "D:/KiCAD/share/kicad/3dmodels/CONN MINI SAS RCPT 36POS SLD SMD/757840140.stp"
+J2 J2.unknown
+J4 J4.unknown
+J6 __J6
+J3 J3.unknown
+J5 __J5
+J1 J1.unknown
+.end

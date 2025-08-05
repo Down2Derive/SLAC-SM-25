@@ -1,0 +1,12 @@
+*.gbr
+/SUM25-backups
+*.drl
+*.DS_Store
+*.gbrjob
+/git-CableAdapterBoard(1)
+/pcbway_production
+/shapes3D
+/V2A_1.0/git-CableAdapterBoard(1)
+/V2A_1.0/KiCAD_Custom_DRC_Rules_for_PCBWay
+/V2A_1.0/SUM25-backups
+*.kicad_dru

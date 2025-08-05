@@ -1,0 +1,7 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+127.02,-77.44,0.0,top,J1,,,SATA,1888174-6,tht
+129.200001,-153.409998,0.0,bottom,J2,,,SATA,1888174-6,tht
+153.95,-77.62,0.0,top,J3,,,SATA,1888174-6,tht
+155.0,-153.5,0.0,bottom,J4,,,SATA,1888174-6,tht
+142.0,-64.5,0.0,top,J5,,,SAMTEC_IPL1-104-01-L-D-K,IPL1-104-01-L-D-K,tht
+142.0,-135.73,180.0,bottom,J6,,,SAMTEC_IPL1-104-01-L-D-K,IPL1-104-01-L-D-K,tht
