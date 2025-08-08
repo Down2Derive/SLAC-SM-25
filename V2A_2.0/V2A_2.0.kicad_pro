@@ -473,7 +473,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SUM25.kicad_pro",
+    "filename": "V2A_2.0.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -683,6 +683,12 @@
           "group_by": false,
           "label": "PARTREV",
           "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Comment",
+          "name": "Comment",
           "show": false
         }
       ],
