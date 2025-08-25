@@ -58,9 +58,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.241,
+          "gap": 1.2,
           "via_gap": 0.24,
-          "width": 0.2701
+          "width": 0.27
         }
       ],
       "drc_exclusions": [],
@@ -128,7 +128,7 @@
       },
       "rules": {
         "max_error": 0.05,
-        "min_clearance": 0.241,
+        "min_clearance": 1.24,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.25,
         "min_groove_width": 0.0,
